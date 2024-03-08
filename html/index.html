@@ -1,0 +1,77 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Canadian Weather</title>
+    <link rel="stylesheet" href="./bundle.css">
+    <script defer src="bundle.js"></script>
+</head>
+
+<body>
+    <div class="g-loading-overlay"></div>
+    <div class="g-base">
+        <header class="g-banner">
+            <h3>Weather App</h3>
+            <h3>by Reese Parsons</h3>
+        </header>
+        <div id="p-container">
+            <div id="s-city-temp">
+                <h1 class="temp"></h1>
+                <div class="city">
+                    <h1 class="name"></h1>
+                </div>
+            </div>
+            <div id="s-select">
+                <select></select>
+            </div>
+        </div>
+        <div id="s-panel">
+            <div class="weather">
+            </div>
+            <ul class="temperature">
+                <li>
+                    <h4>Temperature</h4>
+                </li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+            <ul class="visibility">
+                <li>
+                    <h4>Visibility</h4>
+                </li>
+                <li></li>
+            </ul>
+            <ul class="humidity">
+                <li>
+                    <h4>Humidity</h4>
+                </li>
+                <li></li>
+            </ul>
+            <ul class="air-pressure">
+                <li>
+                    <h4>Pressure</h4>
+                </li>
+                <li></li>
+            </ul>
+            <div class="wind-icon"></div>
+            <ul class="wind">
+                <li>
+                    <h4>Wind</h4>
+                </li>
+                <li></li>
+                <li></li>
+            </ul>
+        </div>
+        <footer id="s-credits">
+            <div>
+                <p>Powered by <a href="https://openweathermap.org/api" target="_blank">OpenWeatherMap</a></p>
+                <p>Images from <a href="https://unsplash.com/" target="_blank">Unsplash</a></p>
+            </div>
+        </footer>
+    </div>
+</body>
+
+</html>

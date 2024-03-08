@@ -1,0 +1,418 @@
+{
+    "data": {
+      "cities": [
+        {
+          "name": "Airdrie",
+          "province": "Alberta"
+        },
+        {
+          "name": "Calgary",
+          "province": "Alberta"
+        },
+        {
+          "name": "Cochrane",
+          "province": "Alberta"
+        },
+        {
+          "name": "Edmonton",
+          "province": "Alberta"
+        },
+        {
+          "name": "Fort McMurray",
+          "province": "Alberta"
+        },
+        {
+          "name": "Grande Prairie",
+          "province": "Alberta"
+        },
+        {
+          "name": "Leduc",
+          "province": "Alberta"
+        },
+        {
+          "name": "Lethbridge",
+          "province": "Alberta"
+        },
+        {
+          "name": "Lloydminster",
+          "province": "Alberta"
+        },
+        {
+          "name": "Medicine Hat",
+          "province": "Alberta"
+        },
+        {
+          "name": "Okotoks",
+          "province": "Alberta"
+        },
+        {
+          "name": "Red Deer",
+          "province": "Alberta"
+        },
+        {
+          "name": "Spruce Grove",
+          "province": "Alberta"
+        },
+        {
+          "name": "Abbotsford",
+          "province": "British Columbia"
+        },
+        {
+          "name": "Campbell River",
+          "province": "British Columbia"
+        },
+        {
+          "name": "Chilliwack",
+          "province": "British Columbia"
+        },
+        {
+          "name": "Courtenay",
+          "province": "British Columbia"
+        },
+        {
+          "name": "Kamloops",
+          "province": "British Columbia"
+        },
+        {
+          "name": "Kelowna",
+          "province": "British Columbia"
+        },
+        {
+          "name": "Mission",
+          "province": "British Columbia"
+        },
+        {
+          "name": "Nanaimo",
+          "province": "British Columbia"
+        },
+        {
+          "name": "Penticton",
+          "province": "British Columbia"
+        },
+        {
+          "name": "Prince George",
+          "province": "British Columbia"
+        },
+        {
+          "name": "Vancouver",
+          "province": "British Columbia"
+        },
+        {
+          "name": "Vernon",
+          "province": "British Columbia"
+        },
+        {
+          "name": "Victoria",
+          "province": "British Columbia"
+        },
+        {
+          "name": "White Rock",
+          "province": "British Columbia"
+        },
+        {
+          "name": "Brandon",
+          "province": "Manitoba"
+        },
+        {
+          "name": "Winnipeg",
+          "province": "Manitoba"
+        },
+        {
+          "name": "Fredericton",
+          "province": "New Brunswick"
+        },
+        {
+          "name": "Moncton",
+          "province": "New Brunswick"
+        },
+        {
+          "name": "Rothesay",
+          "province": "New Brunswick"
+        },
+        {
+          "name": "Saint John",
+          "province": "New Brunswick"
+        },
+        {
+          "name": "St. Johns",
+          "province": "Newfoundland and Labrador"
+        },
+        {
+          "name": "Yellowknife",
+          "province": "Northwest Territories"
+        },
+        {
+          "name": "Halifax",
+          "province": "Nova Scotia"
+        },
+        {
+          "name": "Sydney",
+          "province": "Nova Scotia"
+        },
+        {
+          "name": "Iqaluit",
+          "province": "Nunavut"
+        },
+        {
+          "name": "Barrie",
+          "province": "Ontario"
+        },
+        {
+          "name": "Belleville",
+          "province": "Ontario"
+        },
+        {
+          "name": "Bolton",
+          "province": "Ontario"
+        },
+        {
+          "name": "Bowmanville",
+          "province": "Ontario"
+        },
+        {
+          "name": "Bradford",
+          "province": "Ontario"
+        },
+        {
+          "name": "Brantford",
+          "province": "Ontario"
+        },
+        {
+          "name": "Chatham",
+          "province": "Ontario"
+        },
+        {
+          "name": "Cornwall",
+          "province": "Ontario"
+        },
+        {
+          "name": "Georgetown",
+          "province": "Ontario"
+        },
+        {
+          "name": "Guelph",
+          "province": "Ontario"
+        },
+        {
+          "name": "Hamilton",
+          "province": "Ontario"
+        },
+        {
+          "name": "Innisfil",
+          "province": "Ontario"
+        },
+        {
+          "name": "Kanata",
+          "province": "Ontario"
+        },
+        {
+          "name": "Keswick",
+          "province": "Ontario"
+        },
+        {
+          "name": "Kingston",
+          "province": "Ontario"
+        },
+        {
+          "name": "Leamington",
+          "province": "Ontario"
+        },
+        {
+          "name": "London",
+          "province": "Ontario"
+        },
+        {
+          "name": "Midland",
+          "province": "Ontario"
+        },
+        {
+          "name": "Milton",
+          "province": "Ontario"
+        },
+        {
+          "name": "North Bay",
+          "province": "Ontario"
+        },
+        {
+          "name": "Ottawa",
+          "province": "Ontario"
+        },
+        {
+          "name": "Orangeville",
+          "province": "Ontario"
+        },
+        {
+          "name": "Orillia",
+          "province": "Ontario"
+        },
+        {
+          "name": "Oshawa",
+          "province": "Ontario"
+        },
+        {
+          "name": "Peterborough",
+          "province": "Ontario"
+        },
+        {
+          "name": "St. Catharines",
+          "province": "Ontario"
+        },
+        {
+          "name": "St. Thomas",
+          "province": "Ontario"
+        },
+        {
+          "name": "Sault Ste. Marie",
+          "province": "Ontario"
+        },
+        {
+          "name": "Sarnia",
+          "province": "Ontario"
+        },
+        {
+          "name": "Stouffville",
+          "province": "Ontario"
+        },
+        {
+          "name": "Stratford",
+          "province": "Ontario"
+        },
+        {
+          "name": "Sudbury",
+          "province": "Ontario"
+        },
+        {
+          "name": "Timmins",
+          "province": "Ontario"
+        },
+        {
+          "name": "Toronto",
+          "province": "Ontario"
+        },
+        {
+          "name": "Thunder Bay",
+          "province": "Ontario"
+        },
+        {
+          "name": "Waterloo",
+          "province": "Ontario"
+        },
+        {
+          "name": "Welland",
+          "province": "Ontario"
+        },
+        {
+          "name": "Windsor",
+          "province": "Ontario"
+        },
+        {
+          "name": "Woodstock",
+          "province": "Ontario"
+        },
+        {
+          "name": "Charlottetown",
+          "province": "Prince Edward Island"
+        },
+        {
+          "name": "Beloeil",
+          "province": "Quebec"
+        },
+        {
+          "name": "Châteauguay",
+          "province": "Quebec"
+        },
+        {
+          "name": "Chicoutimi",
+          "province": "Quebec"
+        },
+        {
+          "name": "Drummondville",
+          "province": "Quebec"
+        },
+        {
+          "name": "Granby",
+          "province": "Quebec"
+        },
+        {
+          "name": "Joliette",
+          "province": "Quebec"
+        },
+        {
+          "name": "Montreal",
+          "province": "Quebec"
+        },
+        {
+          "name": "Quebec",
+          "province": "Quebec"
+        },
+        {
+          "name": "Rimouski",
+          "province": "Quebec"
+        },
+        {
+          "name": "Saint-Georges",
+          "province": "Quebec"
+        },
+        {
+          "name": "Saint-Hyacinthe",
+          "province": "Quebec"
+        },
+        {
+          "name": "Saint Jerome",
+          "province": "Quebec"
+        },
+        {
+          "name": "Saint Jean-sur-Richelieu",
+          "province": "Quebec"
+        },
+        {
+          "name": "Salaberry-de-Valleyfield",
+          "province": "Quebec"
+        },
+        {
+          "name": "Shawinigan",
+          "province": "Quebec"
+        },
+        {
+          "name": "Sorel-Tracy",
+          "province": "Quebec"
+        },
+        {
+          "name": "Sherbrooke",
+          "province": "Quebec"
+        },
+        {
+          "name": "Trois-Rivieres",
+          "province": "Quebec"
+        },
+        {
+          "name": "Val-d'Or",
+          "province": "Quebec"
+        },
+        {
+          "name": "Victoriaville",
+          "province": "Quebec"
+        },
+        {
+          "name": "Moose Jaw",
+          "province": "Saskatchewan"
+        },
+        {
+          "name": "Prince Albert",
+          "province": "Saskatchewan"
+        },
+        {
+          "name": "Regina",
+          "province": "Saskatchewan"
+        },
+        {
+          "name": "Saskatoon",
+          "province": "Saskatchewan"
+        },
+        {
+          "name": "Whitehorse",
+          "province": "Yukon"
+        }
+      ]
+    }
+  }
