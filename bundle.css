@@ -310,8 +310,8 @@ body {
   \**************************************************************************************************************/
 @font-face {
     font-family: weathericons;
-    src: url(/font/bb2ec001c20cf752f852.eot);
-    src: url(/font/bb2ec001c20cf752f852.eot?#iefix)format('embedded-opentype'), url(/font/e218aee6928fe3da9ed6.woff2)format('woff2'), url(/font/371511ddba5fdac0538c.woff)format('woff'), url(/font/0942d1e1c447d6ce3ffc.ttf)format('truetype'), url(/font/1341a15172cec8dae06e.svg#weather_iconsregular)format('svg');
+    src: url(font/bb2ec001c20cf752f852.eot);
+    src: url(font/bb2ec001c20cf752f852.eot?#iefix)format('embedded-opentype'), url(font/e218aee6928fe3da9ed6.woff2)format('woff2'), url(font/371511ddba5fdac0538c.woff)format('woff'), url(font/0942d1e1c447d6ce3ffc.ttf)format('truetype'), url(font/1341a15172cec8dae06e.svg#weather_iconsregular)format('svg');
     font-weight: 400;
     font-style: normal
 }
